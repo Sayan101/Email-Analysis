@@ -1,0 +1,6 @@
+The high level goal of this project is to analyse incoming emails and determine
+if any reply or action is required for the specific email.
+
+The scope is limited to just reading the mail and trying to analyse the sentiment
+and urgency as of now. The program should be able to categorize the emails as alerts or
+notifications or promotions as well. This would be a future scope.
